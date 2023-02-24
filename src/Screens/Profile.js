@@ -17,7 +17,7 @@ const Profile = () => {
         password: '',
         confirmPassword: ''
     })
-
+ 
 
     const Vailidate = () => {
 
